@@ -1,0 +1,23 @@
+{
+  "name": "wamp-lightning-talk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tyv/wamp-lightning-talk.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tyv/wamp-lightning-talk/issues"
+  },
+  "homepage": "https://github.com/tyv/wamp-lightning-talk#readme",
+  "dependencies": {
+    "autobahn": "^0.11.2",
+    "wamp-server": "^0.0.6"
+  }
+}
